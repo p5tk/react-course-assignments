@@ -1,0 +1,12 @@
+.inputStyle {
+    margin: 20px auto;
+    background-color: burlywood;
+    text-align: center;
+    padding: 16px;
+    width: 20%;
+}
+
+input {
+    height: 30px;
+    width: 350px;
+}
